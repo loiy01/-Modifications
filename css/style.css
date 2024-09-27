@@ -1,0 +1,26 @@
+body
+{
+    
+background-color:rgba(199, 199, 199, 0);
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
+.div1{
+    display: flex;
+    justify-content:center;
+    box-shadow: 1px 1px 1px 1px rgb(195, 195, 195);
+    width: 80%;
+    height: 100px;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+}
